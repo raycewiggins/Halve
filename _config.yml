@@ -1,7 +1,7 @@
 # Site
 title: Rayce Wiggins
 description: Aspiring Engineer
-url: "https://raycewiggins.github.io/Halve/"
+url: # "https://raycewiggins.github.io/Halve/"
 logo: halve.png                                       # Site logo
 locale: en_US
 
@@ -35,7 +35,7 @@ twitter:           raycewiggins
 #facebook:           username
 github:            raycewiggins
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:          rayewiggins
+linkedin:          rayce-wiggins
 #xing:              username
 #instagram:          username
 #lastfm:            username
