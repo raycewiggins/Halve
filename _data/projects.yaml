@@ -1,29 +1,29 @@
 - title: Blocipedia
-  url: http://taylantatli.me/Halve
-  image: http://taylantatli.me/Halve/images/halve-home-image.png
+  url: https://github.com/raycewiggins/blocipedia
+  image: https://raw.githubusercontent.com/raycewiggins/blocipedia/master/app/assets/images/blocipedia_demo.png
   completed: true
 
 - title: Blocitoff
-  url: http://taylantatli.me/Moon
-  image: https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
+  url: https://github.com/raycewiggins/blocitoff
+  image: https://raw.githubusercontent.com/raycewiggins/blocitoff/master/app/assets/images/Blocitoff.png
   completed: true
 
 - title: Blocmarks
-  url: http://taylantatli.me/Ramme
-  image: https://raw.githubusercontent.com/TaylanTatli/Ramme/master/assets/img/screenshot-post.png
+  url: https://github.com/raycewiggins/blocmarks
+  image: https://raw.githubusercontent.com/raycewiggins/blocmarks/master/app/assets/images/Blocmarks.png
   completed: true
 
 - title: Blocmetrics
-  url: http://taylantatli.me/Daisy-Pelican-Theme/
-  image: https://raw.githubusercontent.com/TaylanTatli/Daisy-Pelican-Theme/master/Preview-1.png
+  url: https://github.com/raycewiggins/blocmetrics
+  image: https://raw.githubusercontent.com/raycewiggins/blocmetrics/master/app/assets/images/Blocmetrics.png
   completed: true
 
-- title: Block Icon Theme
-  url: https://github.com/TaylanTatli/Block-Icon-Theme
-  image: https://raw.githubusercontent.com/TaylanTatli/Block-Icon-Theme/master/Preview.png
-  completed: true
+- title: Kele
+  url:
+  image:
+  completed: false
 
-- title: Start Page
-  url: http://taylantatli.me/StartPage/
-  image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
-  completed: true
+- title: Alexa
+  url:
+  image:
+  completed: false
