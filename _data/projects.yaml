@@ -5,7 +5,7 @@
 
 - title: Blocitoff
   url: https://github.com/raycewiggins/blocitoff
-  image: https://raw.githubusercontent.com/raycewiggins/blocitoff/master/app/assets/images/Blocitoff.png
+  image: "images/blocitoff.png"
   completed: true
 
 - title: Blocmarks
