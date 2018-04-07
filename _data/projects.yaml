@@ -17,3 +17,18 @@
   url: https://github.com/raycewiggins/blocmetrics
   image: https://raw.githubusercontent.com/raycewiggins/blocmetrics/master/app/assets/images/Blocmetrics.png
   completed: true
+
+- title: Bloc Jams
+  url: https://github.com/raycewiggins/bloc-jams-angular
+  image:
+  completed: true
+
+- title: Bloctime
+  url: https://github.com/raycewiggins/bloctime
+  image:
+  completed: true
+
+- title: Emaily
+    url: https://github.com/raycewiggins/emaily
+    image:
+    completed: true
