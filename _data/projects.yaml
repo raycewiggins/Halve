@@ -28,7 +28,7 @@
   image:
   completed: true
 
-- title: Emaily
-  url: https://github.com/raycewiggins/emaily
-  image:
-  completed: true
+# - title: Emaily
+#   url: https://github.com/raycewiggins/emaily
+#   image:
+#   completed: true
